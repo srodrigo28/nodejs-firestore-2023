@@ -1,4 +1,5 @@
 # Firebase
+    * link .: https://bancodedadoscomjavascript.club.hotmart.com/lesson/k7QxvxNrey/criar-produto
     * Criar o projeto online
     * Configurações do projeto
     * baixar a chave depois de criar a conta
